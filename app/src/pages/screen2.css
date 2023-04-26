@@ -1,0 +1,16 @@
+.card {
+  display: flex;
+}
+.main {
+  padding: 10px;
+  margin: 10px;
+  display: grid;
+  justify-items: center;
+  border-radius: 16px;
+  box-shadow: 26px 26px 53px #a8a8a8, -26px -26px 53px #ffffff;
+}
+.screen2 {
+  margin: 50px;
+  display: grid;
+  justify-items: center;
+}
